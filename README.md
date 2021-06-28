@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-b4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-b4&layout=compact&hide_title=true" />
 
