@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Construtivo.com
-- 🌱 I’m currently learning Dart FFI
+- 🔭 I’m currently working on estrategia.com
+- 🌱 I’m currently learning Go-lang
 - 👯 I’m looking to collaborate on Dart, for my project "Mart-malware-dart"
 - 💬 Ask me about EVERYTHING
 - ⚡ Fun fact, I already hacked the Brazilian Army System
